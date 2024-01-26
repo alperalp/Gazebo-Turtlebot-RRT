@@ -2,6 +2,9 @@
 
 ## A basic project about path planning with rrt and simulation in Gazebo enviroment
 
+This was a project which I made for my Autonomous Systems class.
+You can plan a path using RRT algorithm on a given map and you can use generated gazebo map and use it for simulation.
+
 ## Installation and Usage
 1. Clone the package into your working enviroment. Also make sure that you have turtlebot3 packages from robotis "https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup"
 2. Run the rrt planning script -```rosrun my_rrt_pkg rrt_planner.py```. This will generate a world file named "rrt_world.world" and a text file with cordinates for route named "rrt_nodes.txt"

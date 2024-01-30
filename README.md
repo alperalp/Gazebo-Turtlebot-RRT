@@ -2,7 +2,7 @@
 
 ## A basic project about path planning with rrt and simulation in Gazebo enviroment
 
-This is a project I created for my Autonomous Systems class. It involves planning a path using the RRT algorithm on a provided map. Additionally, you can utilize a generated Gazebo map for simulation.
+This is a project I made for my Autonomous Systems class. It involves planning a path using the RRT algorithm on a provided map. Additionally, you can utilize a generated Gazebo map for simulation.
 
 ## Installation and Usage
 1. Clone the package into your working enviroment. Also make sure that you have turtlebot3 packages from robotis "https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup"
